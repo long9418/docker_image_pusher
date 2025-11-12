@@ -1,5 +1,12 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+# nginx
+# 支持私库
+# k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+# --platform=linux/arm64 xiaoyaliu/alist
+
+openjdk:8u292-jdk
+openjdk:11.0.16-jdk
+openjdk:17.0.2-jdk
+
+redis
+
