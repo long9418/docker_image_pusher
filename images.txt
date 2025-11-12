@@ -4,9 +4,6 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
-openjdk:8u292-jdk
-openjdk:11.0.16-jdk
-openjdk:17.0.2-jdk
-
-redis
-
+docker.elastic.co/elasticsearch/elasticsearch:9.2.1
+docker.elastic.co/elasticsearch/elasticsearch:8.19.7
+docker.elastic.co/elasticsearch/elasticsearch:7.17.29
