@@ -4,5 +4,5 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
-node:22.13.1
+neilpang/acme.sh
 
