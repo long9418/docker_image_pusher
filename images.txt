@@ -4,4 +4,5 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
-openresty/openresty
+rustdesk/rustdesk-server:latest
+rustdesk/rustdesk-server:latest
