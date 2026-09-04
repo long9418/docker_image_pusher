@@ -5,4 +5,5 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 
 # zerotier/zerotier
-vimagick/rinetd
+# vimagick/rinetd
+percona/percona-xtrabackup
