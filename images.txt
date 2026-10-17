@@ -7,4 +7,5 @@
 # zerotier/zerotier
 # vimagick/rinetd
 # percona/percona-xtrabackup
-emqx/emqx:5.8.9
+# emqx/emqx:5.8.9
+emqx/emqx:5.10.5
