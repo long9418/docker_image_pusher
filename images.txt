@@ -9,4 +9,5 @@
 # percona/percona-xtrabackup
 # emqx/emqx:5.8.9
 # emqx/emqx:5.10.5
-eclipse-temurin:21-jdk
+# eclipse-temurin:21-jdk
+python:3.11.9
